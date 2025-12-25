@@ -1,4 +1,4 @@
-### Jenkins Pipeline Documentation
+# Jenkins Pipeline Documentation
 For Docker, log in or create an account, then install docker desktop if you don't have it. 
 
 Open Docker Desktop. Then go to Images, search for "Jenkins" and pull "Jenkins/Jenkins"
@@ -71,7 +71,7 @@ Then click New Item, name the item, click Pipeline, and ok
 Then change the pipeline configurations to look as such but use the repository url of the repo you want to use
 ![Screenshot9](./Screenshots/Screen%20Shot%202025-02-05%20at%2006.51.09%20(2).png)
 
-### Test Pipeline
+# Test Pipeline
 Fork the below repository
 	https://github.com/derrickSh43/autoScale
 		Git clone it to edit in Desktop

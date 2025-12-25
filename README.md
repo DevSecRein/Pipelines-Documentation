@@ -27,7 +27,7 @@ Once it is complete you should see the homescreen. From the homescreen go to Man
 ![Scrrenshot6](./Screenshots/Screen%20Shot%202025-01-25%20at%2009.21.11.png)
 
 Search the following in Available Plugins(search with lower case letters):
-	`
+
 	AWS
 		-AWS Credentials
 		-Pipeline: AWS Steps
@@ -63,7 +63,6 @@ Search the following in Available Plugins(search with lower case letters):
 		-GitHub Authentication
 		-Pipeline: GitHub
 		-Pipeline GitHub Notify Step
-		`
 
 Go to Jenkins > Manage Jenkins > Credentials and click global. Then add AWS credentials to Jenkins
 ![Screenshot7](./Screenshots/Screen%20Shot%202025-02-05%20at%2005.45.26%20(2).png)

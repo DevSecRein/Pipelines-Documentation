@@ -12,7 +12,7 @@ For Jenkins, open the command line interface and and run this command
 Access Jenkins via the web browser
 	[http://localhost:8080](http://localhost:8080/)
 		To do this you must make sure that the container with the ports is running
-		![Screenshot](./Screenshots/Screen Shot 2025-02-04 at 23.06.56.png)
+		![Screenshot](./Screenshots/Screen%20Shot%202025-02-04%20at%2023.06.56.png)
 		*Note: Don't delete the second Jenkins container*
 
 Paste the password
